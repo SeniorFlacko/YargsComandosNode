@@ -1,32 +1,34 @@
-#Aplicacion de comandos 
+# Aplicacion de comandos 
 
-####Aplicacion de comandos con yargs
+#### Aplicacion de comandos con Node.js y Yargs
 
-#####Crear:
+#### Crear:
 
 Creamos la tarea 'Comer Verduras'
 
-<img src="">
+<img src="https://github.com/SeniorFlacko/YargsComandosNode/blob/master/Crear.JPG">
 
-#####Listar:
+#### Listar:
 
-Listamos todas las tareas para verificar que 'Comer Verduras' este el la BD
+Listamos todas las tareas para verificar que 'Comer Verduras' este en la BD
 
-<img src="">
+<img src="https://github.com/SeniorFlacko/YargsComandosNode/blob/master/Listar.JPG">
 
 
-#####Actualizar:
+#### Actualizar:
 
 Actualizamos la tarea 'Comer Verduras' con lo cual su estado se cambia a true
+
 Listamos todas las tareas para verificar que el estado de 'Comer Verduras' sea true
 
-<img src="">
+<img src="https://github.com/SeniorFlacko/YargsComandosNode/blob/master/Actualizar.JPG">
 
 
-#####Borrar:
+#### Borrar:
 
 Borramos la tarea 'Comer Verduras'
+
 Listamos todas las tareas para verificar que el 'Comer Verduras' haya sido eliminado
 
-<img src="">
+<img src="https://github.com/SeniorFlacko/YargsComandosNode/blob/master/Borrar.JPG">
 
